@@ -7,3 +7,9 @@
 
 ### 2. Abstract scene:
 ![2](https://github.com/Mirabird/Blender_projects/blob/main/Abstract_scene.png?raw=true)
+## Скачать файл Blender с абстрактной сценой:
+Для скачивания файла Blender нажмите на ссылку ниже:
+
+[Скачать файл Blender](https://drive.google.com/file/d/1MMnZMONeT8IGgnAh8XW0W_rPDKQdJeQU/view)
+
+
