@@ -12,4 +12,7 @@
 
 [Скачать файл Blender](https://drive.google.com/file/d/1MMnZMONeT8IGgnAh8XW0W_rPDKQdJeQU/view)
 
+### 3. Extinguisher model:
+![3](https://github.com/Mirabird/Blender_projects/blob/main/render_3.png?raw=true)
+
 
