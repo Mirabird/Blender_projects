@@ -15,4 +15,5 @@
 ### 3. Extinguisher model:
 ![3](https://raw.githubusercontent.com/Mirabird/Blender_projects/0e4b2d70e35843ec97747e7cf4ecf71e6db7b5f0/render_1.png)
 
-
+### 3. Physical simulation of rigid bodies:
+[Посмотреть видео с физической симуляцией твердых тел на Vimeo](https://vimeo.com/1057114293)
