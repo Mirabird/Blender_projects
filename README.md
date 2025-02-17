@@ -13,6 +13,11 @@
 [Скачать файл Blender](https://drive.google.com/file/d/1MMnZMONeT8IGgnAh8XW0W_rPDKQdJeQU/view)
 
 ### 3. Extinguisher model:
-![3](https://github.com/Mirabird/Blender_projects/blob/main/render_3.png?raw=true)
+![3](https://raw.githubusercontent.com/Mirabird/Blender_projects/0e4b2d70e35843ec97747e7cf4ecf71e6db7b5f0/render_1.png)
 
+### 3. Physical simulation of rigid bodies:
+[Посмотреть видео с физической симуляцией твердых тел на Vimeo](https://vimeo.com/1057114293)
+
+### 4. Textile simulation:
+[Посмотреть видео c симуляцией тканей на Vimeo](https://vimeo.com/1057459527?share=copy)
 
