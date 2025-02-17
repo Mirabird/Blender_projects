@@ -17,3 +17,7 @@
 
 ### 3. Physical simulation of rigid bodies:
 [Посмотреть видео с физической симуляцией твердых тел на Vimeo](https://vimeo.com/1057114293)
+
+### 4. Textile simulation:
+[Посмотреть видео c симуляцией тканей на Vimeo](https://vimeo.com/1057459527?share=copy)
+
