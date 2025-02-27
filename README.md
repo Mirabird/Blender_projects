@@ -21,3 +21,9 @@
 ### 4. Textile simulation:
 [Посмотреть видео c симуляцией тканей на Vimeo](https://vimeo.com/1057459527?share=copy)
 
+### 5. Product design:
+![4](https://github.com/Mirabird/Blender_projects/commit/beed46716612c8a4f0fb8bc2478d6ddb7531c4af#diff-417cebf6ccd94c0ab01e2c6ff28a93e3707db6c821c786cb496b600bef0e17ac)
+
+
+
+
