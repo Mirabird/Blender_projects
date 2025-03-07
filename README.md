@@ -25,7 +25,7 @@
 [Посмотреть видео c симуляцией жидкостей на Vimeo](https://vimeo.com/1063554291?share=copy)
 
 ### 6. Fire simulation:
-[Посмотреть видео c симуляцией огня на Vimeo](https://vimeo.com/1057459527?share=copy)
+[Посмотреть видео c симуляцией огня на Vimeo](https://vimeo.com/1063555341?share=copy)
 
 ### 7. Product design:
 ![4](https://raw.githubusercontent.com/Mirabird/Blender_projects/refs/heads/main/product_design.png)
