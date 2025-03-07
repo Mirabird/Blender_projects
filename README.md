@@ -21,7 +21,15 @@
 ### 4. Textile simulation:
 [Посмотреть видео c симуляцией тканей на Vimeo](https://vimeo.com/1057459527?share=copy)
 
-### 5. Product design:
+
+### 5. Liquid (chocolate) simulation:
+[Посмотреть видео c симуляцией жидкостей на Vimeo](https://vimeo.com/1057459527?share=copy)
+
+
+### 6. Fire simulation:
+[Посмотреть видео c симуляцией огня на Vimeo](https://vimeo.com/1057459527?share=copy)
+
+### 7. Product design:
 ![4](https://raw.githubusercontent.com/Mirabird/Blender_projects/refs/heads/main/product_design.png)
 
 
