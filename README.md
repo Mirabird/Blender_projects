@@ -28,7 +28,7 @@
 [Посмотреть видео c симуляцией огня на Vimeo](https://vimeo.com/1063555341?share=copy)
 
 ### 7. Product design:
-![4](https://raw.githubusercontent.com/Mirabird/Blender_projects/refs/heads/main/product_design.png)
+![4](https://raw.githubusercontent.com/Mirabird/Blender_projects/beed46716612c8a4f0fb8bc2478d6ddb7531c4af/product_design.png)
 
 
 
